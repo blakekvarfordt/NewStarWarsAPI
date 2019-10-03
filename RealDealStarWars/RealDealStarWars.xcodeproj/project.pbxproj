@@ -13,6 +13,7 @@
 		639A2E5123458FF7003356AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639A2E5023458FF7003356AE /* Assets.xcassets */; };
 		639A2E5423458FF7003356AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639A2E5223458FF7003356AE /* LaunchScreen.storyboard */; };
 		639A2E6123459514003356AE /* Starship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639A2E6023459514003356AE /* Starship.swift */; };
+		639A2E632345A0DC003356AE /* Film.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639A2E622345A0DC003356AE /* Film.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		639A2E5323458FF7003356AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		639A2E5523458FF7003356AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		639A2E6023459514003356AE /* Starship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Starship.swift; sourceTree = "<group>"; };
+		639A2E622345A0DC003356AE /* Film.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Film.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				639A2E6023459514003356AE /* Starship.swift */,
+				639A2E622345A0DC003356AE /* Film.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				639A2E6123459514003356AE /* Starship.swift in Sources */,
+				639A2E632345A0DC003356AE /* Film.swift in Sources */,
 				639A2E4823458FF6003356AE /* AppDelegate.swift in Sources */,
 				639A2E4A23458FF6003356AE /* SceneDelegate.swift in Sources */,
 			);
